@@ -2,8 +2,9 @@
 factorial hidden markov model audio source separation code
 Factorial Hidden Markov Model (FHMM) Audio Source Separation
 download dataset :https://databank.illinois.edu/datasets/IDB-6216881 
-Introduction to Results: 
 
+
+Introduction to Results: 
 In the realm of audio source separation, the ability to disentangle overlapping sounds within a given environment poses a significant challenge. The intricacies of deciphering various audio sources amidst ambient noise mirror the complexities of a bustling cocktail party scenario. This project delves into the domain of audio source separation using the Massive Microphone Array dataset and employs the innovative Factorial Hidden Markov Model (FHMM) as the cornerstone of our methodology.
 
 The section presents a comprehensive analysis of the results obtained from the implementation of a Factorial Hidden Markov Model (FHMM) for audio source separation. The primary objective of this project was to leverage probabilistic graphical modeling to estimate hidden states and subsequently separate individual audio sources from observed signals captured by a distributed array of microphones.
